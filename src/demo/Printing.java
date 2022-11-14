@@ -8,6 +8,7 @@ public class Printing {
 		System.out.println("my name is sharique");
 		int sum= a+b;
 		System.out.println("sum of a number is addition:"  +sum);
+		System.out.println("alam");
 
 	}
 
